@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nbustillos95
-- 👀 I’m interested in becoming a better programmer
+- I’m interested in becoming a better programmer
 - 📫 Reach me at nbustillos@students.blackhawk.edu
 
 <!---
